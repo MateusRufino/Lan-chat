@@ -1,16 +1,17 @@
+
 <h2>LAN Group Chat via WebSocket</h2>
 
-<h3>Descrição do Projeto</h3>
+<h3>Project Description</h3>
 
-vEste projeto implementa um sistema de chat em grupo utilizando WebSockets para comunicação em tempo real. A aplicação é projetada para ser utilizada em uma LAN (Local Area Network), onde múltiplos dispositivos conectados podem se comunicar entre si de maneira eficiente e em tempo real.
+<p>This project implements a group chat system using WebSockets for real-time communication. The application is designed to be used in a LAN (Local Area Network), where multiple connected devices can communicate with each other efficiently and in real time.</p>
 
-<h2>Funcionalidades</h2>
+<h2>Features</h2>
 
-<p>Comunicação em Tempo Real: O uso de WebSockets permite que as mensagens sejam enviadas e recebidas instantaneamente entre os usuários conectados ao chat.</p>
-<p>Chat em Grupo: Todos os dispositivos conectados na mesma LAN podem participar de um único chat em grupo, permitindo uma troca de mensagens fluida.</p>
-<p>Interface Amigável: A interface do chat é simples e intuitiva, facilitando a interação dos usuários.</p>
+<p>Real-Time Communication: The use of WebSockets allows messages to be sent and received instantly among users connected to the chat.</p>
+<p>Group Chat: All devices connected to the same LAN can participate in a single group chat, allowing for smooth message exchange.</p>
+<p>User-Friendly Interface: The chat interface is simple and intuitive, making it easy for users to interact.</p>
 
-<h2>Tecnologias Utilizadas</h2>
+<h2>Technologies Used</h2>
 
-<p>WebSocket: Protocolo principal utilizado para estabelecer a comunicação em tempo real entre os clientes.</p>
-<p>Frontend e Backend: Desenvolvido usando HTML, CSS, e JavaScript para criar uma interface amigável e responsiva.</p>
+<p>WebSocket: The main protocol used to establish real-time communication between clients.</p>
+<p>Frontend and Backend: Developed using HTML, CSS, and JavaScript to create a responsive and user-friendly interface.</p>
