@@ -5,6 +5,8 @@
 
 <p>This project implements a group chat system using WebSockets for real-time communication. The application is designed to be used in a LAN (Local Area Network), where multiple connected devices can communicate with each other efficiently and in real time.</p>
 
+![The cell phone and computer are connected to the same network for the demonstration](https://github.com/user-attachments/assets/410da938-fd51-4981-96af-5607749b5b86)
+
 <h2>Features</h2>
 
 <p>Real-Time Communication: The use of WebSockets allows messages to be sent and received instantly among users connected to the chat.</p>
